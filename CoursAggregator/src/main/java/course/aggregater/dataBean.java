@@ -1,15 +1,3 @@
-/*
- * Copyright (c) Rakuten Card Co., Ltd. All Rights Reserved.
- * 
- * This program is the information assets which are handled
- * as "Strictly Confidential".
- * Permission of use is only admitted in Rakuten Card Co., Ltd.
- * If you don't have permission, MUST not be published,
- * broadcast, rewritten for broadcast or publication
- * or redistributed directly or indirectly in any medium.
- * 
- * $Id$
- */
 package course.aggregater;
 
 import java.io.IOException;
